@@ -15,6 +15,7 @@
 ||wwis-dubc1-vip60.adobe.com
 ||activate-sjc0.adobe.com
 
+# Update time: 2025-02-10
 # Update url: https://raw.gitmirror.com/743859910/Block_Adobe_genuine_verification_Hosts/master/Block_Adobe_genuine_verification_Hosts.txt
 # Star me: https://github.com/743859910/Block_Adobe_genuine_verification_Hosts
 # Block_Adobe_genuine_verification_Hosts End
