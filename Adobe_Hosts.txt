@@ -1,0 +1,36 @@
+# Adobe_Hosts Start
+
+127.0.0.1 activate.adobe.com
+127.0.0.1 practivate.adobe.com
+127.0.0.1 ereg.adobe.com
+127.0.0.1 activate.wip3.adobe.com
+127.0.0.1 wip3.adobe.com
+127.0.0.1 3dns-3.adobe.com
+127.0.0.1 3dns-2.adobe.com
+127.0.0.1 adobe-dns.adobe.com
+127.0.0.1 adobe-dns-2.adobe.com
+127.0.0.1 adobe-dns-3.adobe.com
+127.0.0.1 ereg.wip3.adobe.com
+127.0.0.1 activate-sea.adobe.com
+127.0.0.1 wwis-dubc1-vip60.adobe.com
+127.0.0.1 activate-sjc0.adobe.com
+127.0.0.1 server.messaging.adobe.com
+127.0.0.1 ss-prod-va6c2-notif-va6cadobess.com
+127.0.0.1 sstats.adobe.com
+127.0.0.1 stats.adobe.com:1 udps.adobe.com
+127.0.0.1 ui.messaging.adobe.com
+127.0.0.1 utut-service.adobe.com
+127.0.0.1 www.adobe.com
+127.0.0.1 ims-prod0adobelogin.com
+127.0.0.1 cc-api-data.adobe.io
+127.0.0.1 mds-cdn.infra.adobesensei.io
+127.0.0.1 ss-prod-va6c2-ns.va6cadobess.com
+127.0.0.1 lmlicenses.wip4.adobe.com
+127.0.0.1 lm.licenses.adobe.com
+127.0.0.1 na1r.services.adobe.com
+127.0.0.1 hlrcv.stage.adobe.com
+
+# Update time: 2025-03-17
+# Star me: https://github.com/743859910/Open_Hosts
+# Update url: https://raw.gitmirror.com/743859910/Open_Hosts/master/Adobe_Hosts.txt
+# Adobe_Hosts End

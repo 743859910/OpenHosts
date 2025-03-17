@@ -1,0 +1,22 @@
+# Xiaomi_Redmi_TV_Hosts Start
+
+# 爱奇艺（银河奇异果）
+127.0.0.1 t7z.cupid.ptqy.gitv.tv
+
+# Gitv
+127.0.0.1 video.market.xiaomi.com
+
+# 腾讯（云视听极光）
+127.0.0.1 sv-video.play.aiseet.atianqi.com
+
+# 芒果TV
+127.0.0.1 mobaliyun.res.mgtv.com
+
+# 优酷（CIBN酷喵）
+127.0.0.1 pl.cp31.ott.cibntv.net
+127.0.0.1 vali-ugc.cp31.ott.cibntv.net
+
+# Update time: 2025-03-17
+# Star me: https://github.com/743859910/Open_Hosts
+# Update url: https://raw.gitmirror.com/743859910/Open_Hosts/master/Xiaomi_Redmi_TV_Hosts.txt
+# Xiaomi_Redmi_TV_Hosts End

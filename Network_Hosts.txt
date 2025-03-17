@@ -1,0 +1,64 @@
+# Network_Hosts Start
+
+192.168.3.50 *.241231.asia
+192.168.3.50 241231.asia
+192.168.3.50 www.241231.asia
+192.168.3.50 ai.241231.asia
+192.168.3.50 km.241231.asia
+192.168.3.50 api.241231.asia
+192.168.3.50 img.241231.asia
+192.168.3.50 url.241231.asia
+192.168.3.50 pan.241231.asia
+192.168.3.50 hao.241231.asia
+192.168.3.50 bbs.241231.asia
+192.168.3.50 web.241231.asia
+192.168.3.50 lab.241231.asia
+192.168.3.50 cdn.241231.asia
+192.168.3.50 dns.241231.asia
+192.168.3.50 kms.241231.asia
+192.168.3.50 wap.241231.asia
+192.168.3.50 doc.241231.asia
+192.168.3.50 ntp.241231.asia
+192.168.3.50 dns1.241231.asia
+192.168.3.50 dns2.241231.asia
+192.168.3.50 wiki.241231.asia
+192.168.3.50 demo.241231.asia
+192.168.3.50 mail.241231.asia
+192.168.3.50 mods.241231.asia
+192.168.3.50 beta.241231.asia
+192.168.3.50 help.241231.asia
+192.168.3.50 test.241231.asia
+192.168.3.50 home.241231.asia
+192.168.3.50 blog.241231.asia
+192.168.3.50 ipv4.241231.asia
+192.168.3.50 ipv6.241231.asia
+192.168.3.50 news.241231.asia
+192.168.3.50 tool.241231.asia
+192.168.3.50 down.241231.asia
+192.168.3.50 game.241231.asia
+192.168.3.50 docs.241231.asia
+192.168.3.50 image.241231.asia
+192.168.3.50 drive.241231.asia
+192.168.3.50 baike.241231.asia
+192.168.3.50 tools.241231.asia
+192.168.3.50 games.241231.asia
+192.168.3.50 panel.241231.asia
+192.168.3.50 video.241231.asia
+192.168.3.50 music.241231.asia
+192.168.3.50 cloud.241231.asia
+192.168.3.50 share.241231.asia
+192.168.3.50 write.241231.asia
+192.168.3.50 photo.241231.asia
+192.168.3.50 images.241231.asia
+192.168.3.50 status.241231.asia
+192.168.3.50 player.241231.asia
+192.168.3.50 btcloud.241231.asia
+192.168.3.50 download.241231.asia
+192.168.3.50 gravatar.241231.asia
+192.168.3.50 fileserver.241231.asia
+192.168.3.50 printserver.241231.asia
+
+# Update time: 2025-03-17
+# Star me: https://github.com/743859910/Open_Hosts
+# Update url: https://raw.gitmirror.com/743859910/Open_Hosts/master/Network_Hosts.txt
+# Network_Hosts End
