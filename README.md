@@ -2,7 +2,7 @@
 
 ---
 
-<div align="center"><img src="./img/logo.webp" alt="Hosts Logo" height="100"/></div>
+<div align="center"><img src="https://raw.gitmirror.com/743859910/Open_Hosts/master/img/logo.webp" alt="Hosts Logo" height="100"/></div>
 
 ---
 
@@ -52,23 +52,23 @@
 ---
 
 <p align="center">
-  <img src="./img/1.webp">
+  <img src="https://raw.gitmirror.com/743859910/Open_Hosts/master/img/1.webp">
 </p>
 
 <p align="center">
-  <img src="./img/2.webp">
+  <img src="https://raw.gitmirror.com/743859910/Open_Hosts/master/img/2.webp">
 </p>
 
 <p align="center">
-  <img src="./img/3.webp">
+  <img src="https://raw.gitmirror.com/743859910/Open_Hosts/master/img/3.webp">
 </p>
 
 <p align="center">
-  <img src="./img/4.webp">
+  <img src="https://raw.gitmirror.com/743859910/Open_Hosts/master/img/4.webp">
 </p>
 
 <p align="center">
-  <img src="./img/5.webp">
+  <img src="https://raw.gitmirror.com/743859910/Open_Hosts/master/img/5.webp">
 </p>
 
 ---
