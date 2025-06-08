@@ -58,7 +58,7 @@
 192.168.3.50 fileserver.241231.asia
 192.168.3.50 printserver.241231.asia
 
-# Update time: 2025-03-17
+# Update time: 2025-06-08
 # Star me: https://github.com/743859910/Open_Hosts
-# Update url: https://raw.gitmirror.com/743859910/Open_Hosts/master/Network_Hosts.txt
+# Update url: https://raw.githubusercontent.com/743859910/Open_Hosts/master/Network_Hosts.txt
 # Network_Hosts End

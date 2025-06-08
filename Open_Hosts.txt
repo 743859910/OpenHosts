@@ -58,9 +58,9 @@
 192.168.3.50 fileserver.241231.asia
 192.168.3.50 printserver.241231.asia
 
-# Update time: 2025-03-17
+# Update time: 2025-06-08
 # Star me: https://github.com/743859910/Open_Hosts
-# Update url: https://raw.gitmirror.com/743859910/Open_Hosts/master/Network_Hosts.txt
+# Update url: https://raw.githubusercontent.com/743859910/Open_Hosts/master/Open_Hosts.txt
 # Network_Hosts End
 
 
@@ -97,9 +97,9 @@
 127.0.0.1 na1r.services.adobe.com
 127.0.0.1 hlrcv.stage.adobe.com
 
-# Update time: 2025-03-17
+# Update time: 2025-06-08
 # Star me: https://github.com/743859910/Open_Hosts
-# Update url: https://raw.gitmirror.com/743859910/Open_Hosts/master/Adobe_Hosts.txt
+# Update url: https://raw.githubusercontent.com/743859910/Open_Hosts/master/Adobe_Hosts.txt
 # Adobe_Hosts End
 
 
@@ -122,9 +122,9 @@
 127.0.0.1 pl.cp31.ott.cibntv.net
 127.0.0.1 vali-ugc.cp31.ott.cibntv.net
 
-# Update time: 2025-03-17
+# Update time: 2025-06-08
 # Star me: https://github.com/743859910/Open_Hosts
-# Update url: https://raw.gitmirror.com/743859910/Open_Hosts/master/Xiaomi_Redmi_TV_Hosts.txt
+# Update url: https://raw.githubusercontent.com/743859910/Open_Hosts/master/Xiaomi_Redmi_TV_Hosts.txt
 # Xiaomi_Redmi_TV_Hosts End
 
 
@@ -291,7 +291,7 @@
 127.0.0.1 zeus.ad.intl.xiaomi.com
 127.0.0.1 zeus.ad.xiaomi.com
 
-# Update time: 2025-03-17
+# Update time: 2025-06-08
 # Star me: https://github.com/743859910/Open_Hosts
-# Update url: https://raw.gitmirror.com/743859910/Open_Hosts/master/Xiaomi_Redmi_Hosts.txt
+# Update url: https://raw.githubusercontent.com/743859910/Open_Hosts/master/Xiaomi_Redmi_Hosts.txt
 # Xiaomi_Redmi_Hosts End
