@@ -17,17 +17,6 @@
 
 ---
 
-|                        Network_Hosts                         |
-| :----------------------------------------------------------: |
-|              通过修改Hosts实现域名局域网内解析               |
-| 原始链接：https://raw.githubusercontent.com/743859910/Open_Hosts/master/Network_Hosts.txt |
-| raw.bgithub.xyz加速链接：https://raw.bgithub.xyz/743859910/Open_Hosts/master/Network_Hosts.txt |
-| raw.kkgithub.com加速链接：https://raw.kkgithub.com/743859910/Open_Hosts/master/Network_Hosts.txt |
-| raw.gitmirror.com加速链接：https://raw.gitmirror.com/743859910/Open_Hosts/master/Network_Hosts.txt |
-| hub.tcpmini.news加速链接：https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/Open_Hosts/master/Network_Hosts.txt |
-
----
-
 |                         Adobe_Hosts                          |
 | :----------------------------------------------------------: |
 |               通过修改Hosts屏蔽Adobe正版服务器               |
@@ -39,14 +28,25 @@
 
 ---
 
-|                    Xiaomi_Redmi_TV_Hosts                     |
+|                        Network_Hosts                         |
 | :----------------------------------------------------------: |
-|              通过修改Hosts屏蔽小米红米电视广告               |
-| 原始链接：https://raw.githubusercontent.com/743859910/Open_Hosts/master/Xiaomi_Redmi_TV_Hosts.txt |
-| raw.bgithub.xyz加速链接：https://raw.bgithub.xyz/743859910/Open_Hosts/master/Xiaomi_Redmi_TV_Hosts.txt |
-| raw.kkgithub.com加速链接：https://raw.kkgithub.com/743859910/Open_Hosts/master/Xiaomi_Redmi_TV_Hosts.txt |
-| raw.gitmirror.com加速链接：https://raw.gitmirror.com/743859910/Open_Hosts/master/Xiaomi_Redmi_TV_Hosts.txt |
-| hub.tcpmini.news加速链接：https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/Open_Hosts/master/Xiaomi_Redmi_TV_Hosts.txt |
+|              通过修改Hosts实现域名局域网内解析               |
+| 原始链接：https://raw.githubusercontent.com/743859910/Open_Hosts/master/Network_Hosts.txt |
+| raw.bgithub.xyz加速链接：https://raw.bgithub.xyz/743859910/Open_Hosts/master/Network_Hosts.txt |
+| raw.kkgithub.com加速链接：https://raw.kkgithub.com/743859910/Open_Hosts/master/Network_Hosts.txt |
+| raw.gitmirror.com加速链接：https://raw.gitmirror.com/743859910/Open_Hosts/master/Network_Hosts.txt |
+| hub.tcpmini.news加速链接：https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/Open_Hosts/master/Network_Hosts.txt |
+
+---
+
+|                         Block_PCDN_Domain                          |
+| :----------------------------------------------------------: |
+|               通过修改Hosts屏蔽阻止部分PCDN域名               |
+| 原始链接：https://raw.githubusercontent.com/743859910/Open_Hosts/master/Block_PCDN_Domain.txt |
+| raw.bgithub.xyz加速链接：https://raw.bgithub.xyz/743859910/Open_Hosts/master/Block_PCDN_Domain.txt |
+| raw.kkgithub.com加速链接：https://raw.kkgithub.com/743859910/Open_Hosts/master/Block_PCDN_Domain.txt |
+| raw.gitmirror.com加速链接：https://raw.gitmirror.com/743859910/Open_Hosts/master/Block_PCDN_Domain.txt |
+| hub.tcpmini.news加速链接：https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/Open_Hosts/master/Block_PCDN_Domain.txt |
 
 ---
 
@@ -58,6 +58,17 @@
 | raw.kkgithub.com加速链接：https://raw.kkgithub.com/743859910/Open_Hosts/master/Xiaomi_Redmi_Hosts.txt |
 | raw.gitmirror.com加速链接：https://raw.gitmirror.com/743859910/Open_Hosts/master/Xiaomi_Redmi_Hosts.txt |
 | hub.tcpmini.news加速链接：https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/Open_Hosts/master/Xiaomi_Redmi_Hosts.txt |
+
+---
+
+|                    Xiaomi_Redmi_TV_Hosts                     |
+| :----------------------------------------------------------: |
+|              通过修改Hosts屏蔽小米红米电视广告               |
+| 原始链接：https://raw.githubusercontent.com/743859910/Open_Hosts/master/Xiaomi_Redmi_TV_Hosts.txt |
+| raw.bgithub.xyz加速链接：https://raw.bgithub.xyz/743859910/Open_Hosts/master/Xiaomi_Redmi_TV_Hosts.txt |
+| raw.kkgithub.com加速链接：https://raw.kkgithub.com/743859910/Open_Hosts/master/Xiaomi_Redmi_TV_Hosts.txt |
+| raw.gitmirror.com加速链接：https://raw.gitmirror.com/743859910/Open_Hosts/master/Xiaomi_Redmi_TV_Hosts.txt |
+| hub.tcpmini.news加速链接：https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/Open_Hosts/master/Xiaomi_Redmi_TV_Hosts.txt |
 
 ---
 
