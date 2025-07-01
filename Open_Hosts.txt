@@ -1,3 +1,42 @@
+# Adobe_Hosts Start
+
+127.0.0.1 activate.adobe.com
+127.0.0.1 practivate.adobe.com
+127.0.0.1 ereg.adobe.com
+127.0.0.1 activate.wip3.adobe.com
+127.0.0.1 wip3.adobe.com
+127.0.0.1 3dns-3.adobe.com
+127.0.0.1 3dns-2.adobe.com
+127.0.0.1 adobe-dns.adobe.com
+127.0.0.1 adobe-dns-2.adobe.com
+127.0.0.1 adobe-dns-3.adobe.com
+127.0.0.1 ereg.wip3.adobe.com
+127.0.0.1 activate-sea.adobe.com
+127.0.0.1 wwis-dubc1-vip60.adobe.com
+127.0.0.1 activate-sjc0.adobe.com
+127.0.0.1 server.messaging.adobe.com
+127.0.0.1 ss-prod-va6c2-notif-va6cadobess.com
+127.0.0.1 sstats.adobe.com
+127.0.0.1 stats.adobe.com:1 udps.adobe.com
+127.0.0.1 ui.messaging.adobe.com
+127.0.0.1 utut-service.adobe.com
+127.0.0.1 www.adobe.com
+127.0.0.1 ims-prod0adobelogin.com
+127.0.0.1 cc-api-data.adobe.io
+127.0.0.1 mds-cdn.infra.adobesensei.io
+127.0.0.1 ss-prod-va6c2-ns.va6cadobess.com
+127.0.0.1 lmlicenses.wip4.adobe.com
+127.0.0.1 lm.licenses.adobe.com
+127.0.0.1 na1r.services.adobe.com
+127.0.0.1 hlrcv.stage.adobe.com
+
+# Update time: 2025-07-01
+# Star me: https://github.com/743859910/Open_Hosts
+# Update url: https://raw.githubusercontent.com/743859910/Open_Hosts/master/Adobe_Hosts.txt
+# Adobe_Hosts End
+
+
+
 # Network_Hosts Start
 
 #192.168.100.250 *.241231.asia
@@ -58,74 +97,44 @@
 #192.168.100.250 fileserver.241231.asia
 #192.168.100.250 printserver.241231.asia
 
-# Update time: 2025-06-18
+# Update time: 2025-07-01
 # Star me: https://github.com/743859910/Open_Hosts
-# Update url: https://raw.githubusercontent.com/743859910/Open_Hosts/master/Open_Hosts.txt
+# Update url: https://raw.githubusercontent.com/743859910/Open_Hosts/master/Network_Hosts.txt
 # Network_Hosts End
 
 
 
-# Adobe_Hosts Start
+# Block_PCDN_Domain
 
-127.0.0.1 activate.adobe.com
-127.0.0.1 practivate.adobe.com
-127.0.0.1 ereg.adobe.com
-127.0.0.1 activate.wip3.adobe.com
-127.0.0.1 wip3.adobe.com
-127.0.0.1 3dns-3.adobe.com
-127.0.0.1 3dns-2.adobe.com
-127.0.0.1 adobe-dns.adobe.com
-127.0.0.1 adobe-dns-2.adobe.com
-127.0.0.1 adobe-dns-3.adobe.com
-127.0.0.1 ereg.wip3.adobe.com
-127.0.0.1 activate-sea.adobe.com
-127.0.0.1 wwis-dubc1-vip60.adobe.com
-127.0.0.1 activate-sjc0.adobe.com
-127.0.0.1 server.messaging.adobe.com
-127.0.0.1 ss-prod-va6c2-notif-va6cadobess.com
-127.0.0.1 sstats.adobe.com
-127.0.0.1 stats.adobe.com:1 udps.adobe.com
-127.0.0.1 ui.messaging.adobe.com
-127.0.0.1 utut-service.adobe.com
-127.0.0.1 www.adobe.com
-127.0.0.1 ims-prod0adobelogin.com
-127.0.0.1 cc-api-data.adobe.io
-127.0.0.1 mds-cdn.infra.adobesensei.io
-127.0.0.1 ss-prod-va6c2-ns.va6cadobess.com
-127.0.0.1 lmlicenses.wip4.adobe.com
-127.0.0.1 lm.licenses.adobe.com
-127.0.0.1 na1r.services.adobe.com
-127.0.0.1 hlrcv.stage.adobe.com
+||gjfzpt.cn^
+||szbdyd.com^
+||bsccdn.net^
+||pkoplink.com^
+||saxysec.com^
+||uhabo.com^
+||xycdn.com^
+||kuiniuca.com^
+||onethingpcs.com^
+||jomodns.cn^
+||p2p.huya.com^
+||stun.douyucdn.cn
+||stun.hitv.com
+||stun1.douyucdn.cn
+||mcdn.bilivideo.cn^
+||tpa-hcdn.iqiyi.com^
+||pcdn.xmcdn.com^
+/.*pcdn.*biliapi\.net/
+/.*pcdn.*youku\.com/
+/.*p2p.*douyucdn\.cn/
+/.*p2p.*qq\.com/
+/.*pcdn.*biliapi.net/
+/.*pcdn.*youku.com/
+||pcdn.yximgs.com
 
-# Update time: 2025-06-18
+# Update time: 2025-07-01
 # Star me: https://github.com/743859910/Open_Hosts
-# Update url: https://raw.githubusercontent.com/743859910/Open_Hosts/master/Adobe_Hosts.txt
-# Adobe_Hosts End
-
-
-
-# Xiaomi_Redmi_TV_Hosts Start
-
-# 爱奇艺（银河奇异果）
-127.0.0.1 t7z.cupid.ptqy.gitv.tv
-
-# Gitv
-127.0.0.1 video.market.xiaomi.com
-
-# 腾讯（云视听极光）
-127.0.0.1 sv-video.play.aiseet.atianqi.com
-
-# 芒果TV
-127.0.0.1 mobaliyun.res.mgtv.com
-
-# 优酷（CIBN酷喵）
-127.0.0.1 pl.cp31.ott.cibntv.net
-127.0.0.1 vali-ugc.cp31.ott.cibntv.net
-
-# Update time: 2025-06-18
-# Star me: https://github.com/743859910/Open_Hosts
-# Update url: https://raw.githubusercontent.com/743859910/Open_Hosts/master/Xiaomi_Redmi_TV_Hosts.txt
-# Xiaomi_Redmi_TV_Hosts End
+# Update url: https://raw.githubusercontent.com/743859910/Open_Hosts/master/Block_PCDN_Domain.txt
+# Block_PCDN_Domain End
 
 
 
@@ -291,7 +300,32 @@
 127.0.0.1 zeus.ad.intl.xiaomi.com
 127.0.0.1 zeus.ad.xiaomi.com
 
-# Update time: 2025-06-18
+# Update time: 2025-07-01
 # Star me: https://github.com/743859910/Open_Hosts
 # Update url: https://raw.githubusercontent.com/743859910/Open_Hosts/master/Xiaomi_Redmi_Hosts.txt
 # Xiaomi_Redmi_Hosts End
+
+
+
+# Xiaomi_Redmi_TV_Hosts Start
+
+# 爱奇艺（银河奇异果）
+127.0.0.1 t7z.cupid.ptqy.gitv.tv
+
+# Gitv
+127.0.0.1 video.market.xiaomi.com
+
+# 腾讯（云视听极光）
+127.0.0.1 sv-video.play.aiseet.atianqi.com
+
+# 芒果TV
+127.0.0.1 mobaliyun.res.mgtv.com
+
+# 优酷（CIBN酷喵）
+127.0.0.1 pl.cp31.ott.cibntv.net
+127.0.0.1 vali-ugc.cp31.ott.cibntv.net
+
+# Update time: 2025-07-01
+# Star me: https://github.com/743859910/Open_Hosts
+# Update url: https://raw.githubusercontent.com/743859910/Open_Hosts/master/Xiaomi_Redmi_TV_Hosts.txt
+# Xiaomi_Redmi_TV_Hosts End
