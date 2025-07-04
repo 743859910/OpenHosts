@@ -17,6 +17,6 @@
 127.0.0.1 vali-ugc.cp31.ott.cibntv.net
 
 # Update time: 2025-07-01
-# Star me: https://github.com/743859910/Open_Hosts
-# Update url: https://raw.githubusercontent.com/743859910/Open_Hosts/master/Xiaomi_Redmi_TV_Hosts.txt
+# Star me: https://github.com/743859910/OpenHosts
+# Update url: https://raw.githubusercontent.com/743859910/OpenHosts/master/Xiaomi_Redmi_TV_Hosts.txt
 # Xiaomi_Redmi_TV_Hosts End

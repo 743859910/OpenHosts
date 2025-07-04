@@ -26,6 +26,6 @@
 ||pcdn.yximgs.com
 
 # Update time: 2025-07-01
-# Star me: https://github.com/743859910/Open_Hosts
-# Update url: https://raw.githubusercontent.com/743859910/Open_Hosts/master/Block_PCDN_Domain.txt
+# Star me: https://github.com/743859910/OpenHosts
+# Update url: https://raw.githubusercontent.com/743859910/OpenHosts/master/Block_PCDN_Domain.txt
 # Block_PCDN_Domain End

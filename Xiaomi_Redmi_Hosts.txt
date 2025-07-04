@@ -161,6 +161,6 @@
 127.0.0.1 zeus.ad.xiaomi.com
 
 # Update time: 2025-07-01
-# Star me: https://github.com/743859910/Open_Hosts
-# Update url: https://raw.githubusercontent.com/743859910/Open_Hosts/master/Xiaomi_Redmi_Hosts.txt
+# Star me: https://github.com/743859910/OpenHosts
+# Update url: https://raw.githubusercontent.com/743859910/OpenHosts/master/Xiaomi_Redmi_Hosts.txt
 # Xiaomi_Redmi_Hosts End
