@@ -94,7 +94,7 @@
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/{OpenHosts}/count.svg)
+![name](https://api.likepoems.com/counter/get/@OpenHosts)
 
 ---
 
