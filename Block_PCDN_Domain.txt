@@ -25,7 +25,7 @@
 /.*pcdn.*youku.com/
 ||pcdn.yximgs.com
 
-# Update time: 2025-07-01
+# Update time: 2025-08-09
 # Star me: https://github.com/743859910/OpenHosts
 # Update url: https://raw.githubusercontent.com/743859910/OpenHosts/master/Block_PCDN_Domain.txt
 # Block_PCDN_Domain End
