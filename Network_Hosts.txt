@@ -58,7 +58,7 @@
 #192.168.100.250 fileserver.241231.asia
 #192.168.100.250 printserver.241231.asia
 
-# Update time: 2025-07-01
+# Update time: 2025-08-09
 # Star me: https://github.com/743859910/OpenHosts
 # Update url: https://raw.githubusercontent.com/743859910/OpenHosts/master/Network_Hosts.txt
 # Network_Hosts End
