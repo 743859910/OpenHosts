@@ -30,7 +30,7 @@
 127.0.0.1 na1r.services.adobe.com
 127.0.0.1 hlrcv.stage.adobe.com
 
-# Update time: 2025-07-01
+# Update time: 2025-08-09
 # Star me: https://github.com/743859910/OpenHosts
 # Update url: https://raw.githubusercontent.com/743859910/OpenHosts/master/Adobe_Hosts.txt
 # Adobe_Hosts End
