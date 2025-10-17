@@ -2,7 +2,7 @@
 
 ---
 
-<div align="center"><img src="https://raw.gitmirror.com/743859910/OpenHosts/master/logo.webp" alt="Hosts Logo" height="100"/></div>
+<div align="center"><img src="logo.webp" alt="Hosts Logo" height="100"/></div>
 
 ---
 
@@ -12,7 +12,7 @@
 | 原始链接：https://raw.githubusercontent.com/743859910/OpenHosts/master/OpenHosts.txt |
 | raw.bgithub.xyz加速链接：https://raw.bgithub.xyz/743859910/OpenHosts/master/OpenHosts.txt |
 | raw.kkgithub.com加速链接：https://raw.kkgithub.com/743859910/OpenHosts/master/OpenHosts.txt |
-| raw.gitmirror.com加速链接：https://raw.gitmirror.com/743859910/OpenHosts/master/OpenHosts.txt |
+| raw.gitmirror.com加速链接：OpenHosts.txt |
 | hub.tcpmini.news加速链接：https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/OpenHosts/master/OpenHosts.txt |
 
 ---
@@ -23,7 +23,7 @@
 | 原始链接：https://raw.githubusercontent.com/743859910/OpenHosts/master/Adobe_Hosts.txt |
 | raw.bgithub.xyz加速链接：https://raw.bgithub.xyz/743859910/OpenHosts/master/Adobe_Hosts.txt |
 | raw.kkgithub.com加速链接：https://raw.kkgithub.com/743859910/OpenHosts/master/Adobe_Hosts.txt |
-| raw.gitmirror.com加速链接：https://raw.gitmirror.com/743859910/OpenHosts/master/Adobe_Hosts.txt |
+| raw.gitmirror.com加速链接：Adobe_Hosts.txt |
 | hub.tcpmini.news加速链接：https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/OpenHosts/master/Adobe_Hosts.txt |
 
 ---
@@ -34,7 +34,7 @@
 | 原始链接：https://raw.githubusercontent.com/743859910/OpenHosts/master/Network_Hosts.txt |
 | raw.bgithub.xyz加速链接：https://raw.bgithub.xyz/743859910/OpenHosts/master/Network_Hosts.txt |
 | raw.kkgithub.com加速链接：https://raw.kkgithub.com/743859910/OpenHosts/master/Network_Hosts.txt |
-| raw.gitmirror.com加速链接：https://raw.gitmirror.com/743859910/OpenHosts/master/Network_Hosts.txt |
+| raw.gitmirror.com加速链接：Network_Hosts.txt |
 | hub.tcpmini.news加速链接：https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/OpenHosts/master/Network_Hosts.txt |
 
 ---
@@ -45,7 +45,7 @@
 | 原始链接：https://raw.githubusercontent.com/743859910/OpenHosts/master/Block_PCDN_Domain.txt |
 | raw.bgithub.xyz加速链接：https://raw.bgithub.xyz/743859910/OpenHosts/master/Block_PCDN_Domain.txt |
 | raw.kkgithub.com加速链接：https://raw.kkgithub.com/743859910/OpenHosts/master/Block_PCDN_Domain.txt |
-| raw.gitmirror.com加速链接：https://raw.gitmirror.com/743859910/OpenHosts/master/Block_PCDN_Domain.txt |
+| raw.gitmirror.com加速链接：Block_PCDN_Domain.txt |
 | hub.tcpmini.news加速链接：https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/OpenHosts/master/Block_PCDN_Domain.txt |
 
 ---
@@ -56,7 +56,7 @@
 | 原始链接：https://raw.githubusercontent.com/743859910/OpenHosts/master/Xiaomi_Redmi_Hosts.txt |
 | raw.bgithub.xyz加速链接：https://raw.bgithub.xyz/743859910/OpenHosts/master/Xiaomi_Redmi_Hosts.txt |
 | raw.kkgithub.com加速链接：https://raw.kkgithub.com/743859910/OpenHosts/master/Xiaomi_Redmi_Hosts.txt |
-| raw.gitmirror.com加速链接：https://raw.gitmirror.com/743859910/OpenHosts/master/Xiaomi_Redmi_Hosts.txt |
+| raw.gitmirror.com加速链接：Xiaomi_Redmi_Hosts.txt |
 | hub.tcpmini.news加速链接：https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/OpenHosts/master/Xiaomi_Redmi_Hosts.txt |
 
 ---
@@ -67,29 +67,29 @@
 | 原始链接：https://raw.githubusercontent.com/743859910/OpenHosts/master/Xiaomi_Redmi_TV_Hosts.txt |
 | raw.bgithub.xyz加速链接：https://raw.bgithub.xyz/743859910/OpenHosts/master/Xiaomi_Redmi_TV_Hosts.txt |
 | raw.kkgithub.com加速链接：https://raw.kkgithub.com/743859910/OpenHosts/master/Xiaomi_Redmi_TV_Hosts.txt |
-| raw.gitmirror.com加速链接：https://raw.gitmirror.com/743859910/OpenHosts/master/Xiaomi_Redmi_TV_Hosts.txt |
+| raw.gitmirror.com加速链接：Xiaomi_Redmi_TV_Hosts.txt |
 | hub.tcpmini.news加速链接：https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/OpenHosts/master/Xiaomi_Redmi_TV_Hosts.txt |
 
 ---
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/OpenHosts/master/img/image/images/1.webp">
+  <img src="img/image/images/1.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/OpenHosts/master/img/image/images/2.webp">
+  <img src="img/image/images/2.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/OpenHosts/master/img/image/images/3.webp">
+  <img src="img/image/images/3.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/OpenHosts/master/img/image/images/4.webp">
+  <img src="img/image/images/4.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/OpenHosts/master/img/image/images/5.webp">
+  <img src="img/image/images/5.webp">
 </p>
 
 ---
